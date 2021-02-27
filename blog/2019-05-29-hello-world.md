@@ -12,6 +12,6 @@ Welcome to this blog. This blog is created with [**Docusaurus 2 alpha**](https:/
 
 <!--truncate-->
 
-This is a test post.
+This is a test post. Trond er kul
 
 A whole bunch of other information.
